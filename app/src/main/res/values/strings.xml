@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Macropay</string>
+    <string name="main_login">Login</string>
+    <string name="error_correo_vacio">¡El correo esta vacio!</string>
+    <string name="error_contrasena_vacia">¡La Contraseña esta vacía!</string>
+    <string name="error_formato_correo">¡El correo es inválido!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="string_bienvenido">¡Bienvenido!</string>
+    <string name="error_red">¡Sin Conexión a Internet!</string>
+    <string name="lbl_duracion">Duración:</string>
+    <string name="lbl_fecha_estreno">Fecha de Estreno</string>
+    <string name="lbl_generos">Genéros:</string>
+    <string name="lblClasificacion">Clasificación:</string>
+    <string name="btn_facebook">Login con Facebook</string>
+
+    <!-- Facebook Strings -->
+    <string name="facebook_app_id">416232917904598</string>
+    <string name="fb_login_protocol_scheme">fb416232917904598</string>
+    <string name="facebook_client_token">7dde0b0c22a2660994553d25bf459cb8</string>
+
+</resources>

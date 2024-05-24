@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_padding_default">10dp</dimen>
+    <dimen name="main_textfield_width">260dp</dimen>
+    <dimen name="small_text">16dp</dimen>
+    <dimen name="tittle_dime">22dp</dimen>
+    <dimen name="textView">35dp</dimen>
+</resources>
